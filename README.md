@@ -45,7 +45,7 @@ To explore **loan risk, performance, and lending patterns** across the U.S. bank
 
 ##  Dashboard Highlights
 
-Built in Tableau Public – (https://public.tableau.com/views/BankingRiskandLoanPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Built in Tableau Public – **Interactive Dashboard:** https://public.tableau.com/views/BankingRiskandLoanPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Key Visuals:
 
