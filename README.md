@@ -13,7 +13,7 @@ To explore **loan risk, performance, and lending patterns** across the U.S. bank
 - **GitHub**: Hosting processed and raw datasets, dashboard snapshot, and notebook
 
 ## 📸 Dashboard Screenshot
-![Banking Risk Loan Performance](<Banking_Risk_Loan_Performance.png">)
+![Banking Risk Loan Performance](<Banking_Risk_Loan_Performance.png>)
 
 ### Dataset Source
 
