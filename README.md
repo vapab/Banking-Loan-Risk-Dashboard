@@ -13,6 +13,7 @@ To explore **loan risk, performance, and lending patterns** across the U.S. bank
 - **GitHub**: Hosting processed and raw datasets, dashboard snapshot, and notebook
 
 ## 📸 Dashboard Screenshot
+![Banking Risk Loan Performance](<Banking_Risk_Loan_Performance.png">)
 
 ### Dataset Source
 
@@ -38,7 +39,7 @@ To explore **loan risk, performance, and lending patterns** across the U.S. bank
 - Aggregated Loan Amounts
 - Default Rate %, Avg Interest by DTI, Grade, and Purpose
 
-**Saved cleaned file as:** `Processed_Loan_Data.csv`
+*Download cleaned file:** [`Processed_Loan_Data.csv`](./data/Processed_Loan_Data.csv)
 
 ➡️ Both the **raw CSV** and **processed file** are available in the GitHub repo.
 
